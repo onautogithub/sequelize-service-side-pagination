@@ -4,6 +4,7 @@ module.exports = {
   PASSWORD: "root",
   DB: "tutorialdb",
   dialect: "mysql",
+  
   pool: {
     max: 5,
     min: 0,
